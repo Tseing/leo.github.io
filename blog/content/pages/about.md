@@ -1,39 +1,10 @@
 title: About
 slug: about
-cover: https://api.onedrive.com/v1.0/shares/s!AtseC45rsRhN-QrQ5nXFRYwcbFkK/root/content
+cover: https://api.onedrive.com/v1.0/shares/s!AtseC45rsRhN-QsM6F2bdOKv3Wrm/root/content
+status: hidden
+set_as_about_page: true
 
-<aside class="post-author" style="margin-left: 0px;margin-right: 0px;border-top: none;border-bottom: 1px solid #e5e4e1;">
-        <figure class="post-author-avatar">
-            <img src="https://cravatar.cn/avatar/95e31f6808fafa1f8ef3313b6f0b10e6?s=800" alt="Leo" />
-        </figure>
-    <div class="post-author-bio">
-        <h4 class="post-author-name"><a href="https://leonis.cc/author/leo.html">Leo</a></h4>
-        <p class="post-author-about">A biochemist who doesn't know about classical literature isn't a good programmer. Cool, huh?</p>
-        <span class="post-author-location">
-            <a rel="noopener" target="_blank" href="https://www.bing.com/maps?cp=39.116572%7E117.361669&amp;lvl=10.1" title="Tientsin"
-            style="color:inherit">
-            <i class="fa-solid fa-earth-asia fa-fw" aria-hidden="true"></i></a>
-        </span>
-        <span class="post-author-mastodon">
-            <a rel="noopener" target="_blank" href="https://mast.dragon-fly.club/@leonis" title="@leonis@dragon-fly.club"
-            style="color:inherit">
-            <i class="fa-brands fa-mastodon fa-fw" aria-hidden="true"></i></a>
-        </span>
-        <span class="post-author-github">
-            <a rel="noopener" target="_blank" href="https://github.com/Tseing" title="@Tseing"
-            style="color:inherit">
-            <i class="fa-brands fa-github fa-fw" aria-hidden="true"></i></a>
-        </span>
-        <span class="post-author-email">
-            <a rel="noopener" target="_blank" href="mailto:im.yczeng@outlook.com" title="im.yczeng@outlook.com"
-            style="color:inherit">
-            <i class="fa-solid fa-envelope fa-fw" aria-hidden="true"></i></a>
-        </span>
-    </div>
-    <div class="clear"></div>
-</aside>
-
-<img src="https://cdn.leonis.cc/img/2024/01/115aa797391bf50cf6ca9d087d3e329541d51bcb7522f8c2f5506fd1c4c7583d.jpg" style="width: 100%; box-shadow: none; margin-bottom: 0;">
+<img src="https://cdn.leonis.cc/img/2024/01/115aa797391bf50cf6ca9d087d3e329541d51bcb7522f8c2f5506fd1c4c7583d.jpg" style="margin-bottom: 0;">
 
 👋 你好，朋友！欢迎来到我的博客！
 
@@ -49,7 +20,7 @@ cover: https://api.onedrive.com/v1.0/shares/s!AtseC45rsRhN-QrQ5nXFRYwcbFkK/root/
         <p>你可以称呼我为 Leo，这个博客的域名 <code>leonis.cc</code> 也是来源于其所有格 <a href="https://www.collinsdictionary.com/dictionary/english/leonis" rel="noopener" target="_blank"><em>Leonis</em></a>，还兼有着「♌ 狮子座」的意思，暗合我的生日。</p>
 
         <img src="../images/Foochow.jpg" style="width: 75%; margin-bottom: 2em; transform: rotate(-7deg); border: .75em solid #fffef8;">
-        <p>我出生于福建，母语是<a href="https://www.ethnologue.com/language/cdo/" rel="noopener" target="_blank">闽东语</a>，在 <a href="https://www.iso.org/iso-639-language-codes.html" rel="noopener" target="_blank">ISO 639-3</a> 中分到的语言代码是 <code>cdo</code>，我目前的坐标是天津。</p>
+        <p>我出生于 🌊 福建，母语是<a href="https://www.ethnologue.com/language/cdo/" rel="noopener" target="_blank">闽东语</a>，在 <a href="https://www.iso.org/iso-639-language-codes.html" rel="noopener" target="_blank">ISO 639-3</a> 中分到的语言代码是 <code>cdo</code>，我目前的坐标是 🎡 天津。</p>
 
         <img src="../images/books.png" style="width: 65%; box-shadow: none;">
         <p>📚️ 喜欢读古籍，正在文献学和小学的海洋中遨游，平时读书多是文学和历史类。金石和书法也是我的兴趣，在捉刀和捉笔上消磨了许多光阴。</p>
@@ -139,16 +110,17 @@ cover: https://api.onedrive.com/v1.0/shares/s!AtseC45rsRhN-QrQ5nXFRYwcbFkK/root/
 
 ## 📜 Chronicle
 
-- 2022.07.13 在 GitHub Pages 上发布了由 Pelican 生成的静态站点
-- 2023.02.13 将站点迁移到 [RackNerd](https://racknerd.com/) 服务器上，通过 Nginx 部署
-- 2023.02.14 开始使用域名 [*https://leonis.cc*](https://leonis.cc)
-- 2023.03.03 站点加入[个站商店](https://storeweb.cn/)
-- 2023.03.11 站点加入 [BlogFinder](https://bf.zzxworld.com/)
-- 2023.03.16 站点加入[中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
-- 2023.07.11 站点加入[开往-友链接力](https://www.travellings.cn)
-- 2023.10.31 站点托管至 [Cloudflare](https://www.cloudflare.com/)
-- 2023.11.11 将站点服务器更换为 [Cloudcone](https://cloudcone.com/)
-- 2023.02.10 站点加入[十年之约](https://www.foreverblog.cn/)
+- `2022.07.13` 在 GitHub Pages 上发布了由 Pelican 生成的静态站点
+- `2023.02.13` 将站点迁移到 [RackNerd](https://racknerd.com/) 服务器上，通过 Nginx 部署
+- `2023.02.14` 开始使用域名 [*https://leonis.cc*](https://leonis.cc)
+- `2023.03.03` 站点加入[个站商店](https://storeweb.cn/)
+- `2023.03.11` 站点加入 [BlogFinder](https://bf.zzxworld.com/)
+- `2023.03.16` 站点加入[中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
+- `2023.07.11` 站点加入[开往-友链接力](https://www.travellings.cn)
+- `2023.10.31` 站点托管至 [Cloudflare](https://www.cloudflare.com/)
+- `2023.11.11` 将站点服务器更换为 [Cloudcone](https://cloudcone.com/)
+- `2023.02.10` 站点加入[十年之约](https://www.foreverblog.cn/)
+- `2024.04.12` 博客主题更新到了 [Attila v2.0](https://github.com/arulrajnet/attila/releases/tag/v2.0) 🎉
 
 ## 🛠️ Tools
 
